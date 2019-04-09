@@ -1,3 +1,8 @@
+---
+layout: default
+title: Ada County Light Foot — A Constitutional Militia Battalion
+---
+
 # Ada County Light Foot
 1st Battalion, 43rd Field Force, United States Militia
 
