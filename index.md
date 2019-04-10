@@ -12,6 +12,8 @@ We pledge to promote and defend the unalienable God-given rights of all people
 as directed by the U.S. Constitution, the Idaho Constitution, and our Commander
 in Chief, the Governor of Idaho.
 
+[Militia Standards and Principles of the Light Foot][standards]
 
 
-[map]: https://www.google.com/maps/place/American+Legion+Post+113/@43.6102766,-116.3961284,17z/data=!3m1!4b1!4m5!3m4!1s0x54ae53eea740d849:0x4d7fba56e43243a5!8m2!3d43.6102766!4d-116.3939397
+[map]:       https://www.google.com/maps/place/American+Legion+Post+113/@43.6102766,-116.3961284,17z/data=!3m1!4b1!4m5!3m4!1s0x54ae53eea740d849:0x4d7fba56e43243a5!8m2!3d43.6102766!4d-116.3939397
+[standards]: download/Light_Foot_Militia_Standards_2014.pdf
