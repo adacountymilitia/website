@@ -3,10 +3,9 @@ layout: default
 title: 1st Battalion, 43rd Field Force, United States Militia
 ---
 
-# A Militia, You Say?
-Yes, we are an infantry battalion of the Unorganized Militia of the State of
-Idaho, based in Ada County. We meet on the first Tuesday of each month in
-Meridian, at 7pm, on the upper level of the [Veterans Memorial Building][map].
+We are an infantry battalion of the Unorganized Militia of the State of Idaho,
+based in Ada County. We meet on the first Tuesday of each month in Meridian, at
+7pm, on the upper level of the [Veterans Memorial Building][map].
 
 We pledge to promote and defend the unalienable rights of all people as
 directed by the U.S. Constitution, the Idaho Constitution, and our Commander in
