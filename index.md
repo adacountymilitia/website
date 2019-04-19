@@ -3,15 +3,18 @@ layout: default
 title: 1st Battalion, 43rd Field Force, United States Militia
 ---
 
-We are an infantry battalion of the Unorganized Militia of the State of Idaho,
-based in Ada County. We meet on the first Tuesday of each month in Meridian, at
-7pm, on the upper level of the [Veterans Memorial Building][map].
+We are a volunteer infantry battalion of the Unorganized Militia of the State
+of Idaho, based in Ada County. We meet publicly on the first Tuesday of each
+month in Meridian, at 7pm, on the upper level of the [Veterans Memorial
+Building][map].
 
 We pledge to promote and defend the unalienable rights of all people as
 directed by the U.S. Constitution, the Idaho Constitution, and our Commander in
-Chief, the Governor of Idaho.
+Chief, the Governor of Idaho. If you support this cause, then consider yourself
+recruited.
 
-[Militia Standards and Principles of the Light Foot][standards]
+As a Light Foot battalion, we base our operations on the [Militia Standards and
+Principles of the Light Foot][standards].
 
 © 2019 Ada County Light Foot
 
