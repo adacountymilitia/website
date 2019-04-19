@@ -8,9 +8,9 @@ We are a volunteer infantry battalion of the Unorganized Militia of the State
 of Idaho, based in Ada County. We meet on the first Tuesday of each month in
 Meridian, at 7pm, on the upper level of the [Veterans Memorial Building][map].
 
-We pledge to promote and defend the unalienable God-given rights of all people
-as directed by the U.S. Constitution, the Idaho Constitution, and our Commander
-in Chief, the Governor of Idaho.
+We pledge to promote and defend the unalienable rights of all people as
+directed by the U.S. Constitution, the Idaho Constitution, and our Commander in
+Chief, the Governor of Idaho.
 
 [Militia Standards and Principles of the Light Foot][standards]
 
