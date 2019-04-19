@@ -32,10 +32,10 @@
     </header>
 
     <div class="container">
+		<div class="fb-like" data-href="{{ page.url | prepend: site.url }}" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
       <section id="main_content">
         {{ content }}
       </section>
-		<div class="fb-like" data-href="{{ page.url | prepend: site.url }}" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
     </div>
 
     {% if site.google_analytics %}
