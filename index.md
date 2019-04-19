@@ -18,6 +18,21 @@ Principles of the Light Foot][standards].
 
 © 2019 Ada County Light Foot
 
+Subscribe: [Atom feed][feed]
 
+{% for post in site.posts %}
+<div class="post" markdown="1">
+# [{{ post.title }}]({{ post.url }})
+<div class="post-metadata">{{ post.date | date: "%Y-%m-%d" }} — by {{ post.author }}</div>
+{{ post.content }}
+
+© {{ date: "%Y" }} Ada County Light Foot
+</div>
+{% endfor %}
+
+Subscribe to Ada County Light Foot Blog: [Atom feed][feed]
+
+
+[feed]:      /feed.xml
 [map]:       https://www.mapquest.com/search/result?slug=%2Fus%2Fidaho%2Fmeridian%2F83642-2521%2F22-w-broadway-ave-43.610295,-116.393909&query=22%20W%20Broadway%20Ave,%20Meridian,%20ID%2083642-2521&page=0&index=0
 [standards]: download/Light_Foot_Militia_Standards_2014.pdf
