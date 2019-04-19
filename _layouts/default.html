@@ -13,10 +13,10 @@
   <body>
 
     <header>
-      <div class="wrapper">
+      <div class="container">
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
 		  <h2>
-          <img src="{{ '/images/spartan-patch.jpg' | relative_url }}" alt="ΜΟΛΩΝ ΛΑΒΕʹ" class="floating-logo">
+          <img src="{{ '/images/cracker.png' | relative_url }}" alt="Safecracker" class="floating-logo">
           {{ site.description | default: site.github.project_tagline }}
 			 <p class="end-float"></p>
         </h2>
@@ -26,17 +26,16 @@
             <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
             <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
           {% endif %}
+          <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
         </section>
+		  {% include header-menu.html %}
       </div>
     </header>
 
-    <div class="wrapper">
+    <div class="container">
       <section id="main_content">
         {{ content }}
       </section>
-      <footer>
-        <p><small>© 2019 Ada County Light Foot</small></p>
-      </footer>
     </div>
 
     {% if site.google_analytics %}
