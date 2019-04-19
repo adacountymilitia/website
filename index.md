@@ -15,5 +15,5 @@ Chief, the Governor of Idaho.
 [Militia Standards and Principles of the Light Foot][standards]
 
 
-[map]:       https://www.google.com/maps/place/American+Legion+Post+113/@43.6102766,-116.3961284,17z
+[map]:       https://www.mapquest.com/search/result?slug=%2Fus%2Fidaho%2Fmeridian%2F83642-2521%2F22-w-broadway-ave-43.610295,-116.393909&query=22%20W%20Broadway%20Ave,%20Meridian,%20ID%2083642-2521&page=0&index=0
 [standards]: download/Light_Foot_Militia_Standards_2014.pdf
