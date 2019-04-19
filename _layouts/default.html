@@ -13,7 +13,7 @@
   <body>
 
     <header>
-      <div class="container">
+      <div class="wrapper">
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
 		  <h2>
           <img src="{{ '/images/spartan-patch.jpg' | relative_url }}" alt="ΜΟΛΩΝ ΛΑΒΕʹ" class="floating-logo">
@@ -30,10 +30,13 @@
       </div>
     </header>
 
-    <div class="container">
+    <div class="wrapper">
       <section id="main_content">
         {{ content }}
       </section>
+      <footer>
+        <p><small>© 2019 Ada County Light Foot</small></p>
+      </footer>
     </div>
 
     {% if site.google_analytics %}
