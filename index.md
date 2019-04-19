@@ -3,7 +3,6 @@ layout: default
 title: 1st Battalion, 43rd Field Force, United States Militia
 ---
 
-# Who is the Ada County Light Foot?
 We are a volunteer infantry battalion of the Unorganized Militia of the State
 of Idaho, based in Ada County. We meet on the first Tuesday of each month in
 Meridian, at 7pm, on the upper level of the [Veterans Memorial Building][map].
