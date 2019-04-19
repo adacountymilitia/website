@@ -518,3 +518,30 @@ footer {
     width:auto;
   }
 }
+
+// images & captions
+p {
+	position: relative;
+}
+.gallery p {
+	white-space: nowrap;
+}
+.gallery img {
+	max-height: 20em;
+	max-width: 30%;
+	cursor: zoom-in;
+}
+p img + em {
+	position: absolute;
+	left: 0;
+	bottom: 0.4em;
+	background-color: black;
+	opacity: 0.6;
+}
+.floating-logo {
+	float: right;
+	max-width: 20%;
+}
+.end-float {
+	clear: both;
+}
