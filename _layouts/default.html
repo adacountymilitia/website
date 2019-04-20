@@ -34,8 +34,8 @@
     <div class="container">
       <section id="main_content">
         {{ content }}
+			<div class="fb-like" data-href="{{ page.url | prepend: site.url }}" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
       </section>
-		<div class="fb-like" data-href="{{ page.url | prepend: site.url }}" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
     </div>
 
     {% if site.google_analytics %}
