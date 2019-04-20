@@ -63,6 +63,7 @@ li {
 
 header {
   background: rgba(0, 0, 0, 0.1);
+  background-color: black;
   width: 100%;
   border-bottom: 1px dashed $conifer; //header;
   padding: 10px 0;
@@ -310,4 +311,8 @@ p img + em {
 .menu li ::before {
     content: '→';
     color: white;
+}
+
+.fb-like {
+	background-color: black;
 }
