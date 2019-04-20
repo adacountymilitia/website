@@ -26,7 +26,7 @@ Subscribe: [Atom feed][feed]
 <div class="post-metadata">{{ post.date | date: "%Y-%m-%d" }} — by {{ post.author }}</div>
 {{ post.content }}
 
-© {{ date: "%Y" }} Ada County Light Foot
+© {{ post.date | date: "%Y" }} Ada County Light Foot
 </div>
 {% endfor %}
 
