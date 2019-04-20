@@ -17,7 +17,7 @@ layout: default
 	{% if page.tags %}
 	  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 	{% endif %}
-	<p>© {{date: "%Y"}} Ada County Light Foot</p>
+	<p>© {{page.date | date: "%Y"}} Ada County Light Foot</p>
 </div>
 
 <p>Subscribe to the Ada County Light Foot blog: <a href="/feed.xml">Atom feed</a></p>
