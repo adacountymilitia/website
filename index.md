@@ -30,7 +30,7 @@ Subscribe: [Atom feed][feed]
 </div>
 {% endfor %}
 
-Subscribe to Ada County Light Foot Blog: [Atom feed][feed]
+Subscribe to the Ada County Light Foot blog: [Atom feed][feed]
 
 
 [feed]:      /feed.xml
