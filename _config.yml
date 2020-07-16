@@ -32,7 +32,7 @@ show_downloads:   false # I link to the downloads within the README on GitHub in
 encoding: UTF-8
 markdown: kramdown
 theme: jekyll-theme-hacker
-plugins:
+plugins_dir:
   - jekyll-feed
 
 # Exclude from processing.
