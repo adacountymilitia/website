@@ -1,6 +1,6 @@
 ---
 title: "About the Ada County Light Foot"
-permalink: /about
+permalink: /about/
 path: "about"
 type: pages
 layout: single

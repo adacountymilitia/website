@@ -27,5 +27,5 @@ Once a member has passed the **Basic Marksmanship Qualification Test**, they are
 
 
 
-[safety]: /safety
+[safety]: /safety/
 [standards]: /assets/pdf/Light_Foot_Militia_Standards_2014.pdf

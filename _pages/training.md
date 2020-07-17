@@ -33,5 +33,5 @@ At most FTX recruits will have the opportunity to quaify with their weapon. The 
 We encourage everyone who can to lead a training at least once per year. If you have something that you think would benefit others, please speak up. Everyone has something that they can contribute.
 
 [standards]: /assets/pdf/Light_Foot_Militia_Standards_2014.pdf
-[training]: /training
-[arms-qualifications]: /arms-qualifications
+[training]: /training/
+[arms-qualifications]: /arms-qualifications/
