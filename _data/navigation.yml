@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Join"
-    url: /join/
   - title: "About"
     url: /about/
+  - title: "Join"
+    url: /join/
   - title: "Training"
     url: /training/
 
