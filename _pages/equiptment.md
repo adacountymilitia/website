@@ -57,4 +57,4 @@ While a sidearm is not required, many prefer to have a back-up weapon. Much like
 
 This is a harness, vest or belt that is used to carry your gear. You're not going to be very effective if you have to train with 6 magazines, a radio and your IFAK shoved in your pockets.
 
-[standards]: /assets/pdf/Light_Foot_Militia_Standards_2014.pdf
+[standards]: {{ '/assets/pdf/Light_Foot_Militia_Standards_2014.pdf' | relative_url }}

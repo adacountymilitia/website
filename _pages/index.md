@@ -33,6 +33,6 @@ So the militia, like your God-given rights, existed before the United States gov
 [articleXIV]: https://legislature.idaho.gov/statutesrules/idconst/ArtXIV/
 [title46]: https://legislature.idaho.gov/statutesrules/idstat/title46/
 [lfm]: http://lightfootmilitia.com
-[about]: /about/
-[training]: /training/
-[join]: /join/
+[about]: {{ '/about/' | relative_url }}
+[training]: {{ '/training/' | relative_url }}
+[join]: {{ '/join/' | relative_url }}

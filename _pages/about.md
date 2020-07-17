@@ -23,4 +23,4 @@ The members of the unorganized militia shall ever stand, as have our forefathers
 
 As a Light Foot battalion, we base our operations on the [Militia Standards and Principles of the Light Foot][standards]. These standards are the foundation of our unit, as well as many other Light Foot units throughout the country.
 
-[standards]: /assets/pdf/Light_Foot_Militia_Standards_2014.pdf
+[standards]: {{ '/assets/pdf/Light_Foot_Militia_Standards_2014.pdf' | relative_url }}
