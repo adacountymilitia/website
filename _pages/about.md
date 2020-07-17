@@ -13,7 +13,7 @@ We are your friends, your neighbors, and your co-workers. In many cases, we come
 
 ## Statement of Ethics
 
-It is the duty of the citizen’s militia to protect and defend the unalienable Rights ofall members of the community. Under no circumstances will the militia tolerate those who advocate acts of criminal violence, terrorism or a change away from our republican form of government; nor will it support any specific political party or candidate, nor espouse any particular religious denomination or doctrine. All members must understand the duties and obligation of both citizens and government under the United States and their state's constitution.
+It is the duty of the citizen's militia to protect and defend the unalienable Rights ofall members of the community. Under no circumstances will the militia tolerate those who advocate acts of criminal violence, terrorism or a change away from our republican form of government; nor will it support any specific political party or candidate, nor espouse any particular religious denomination or doctrine. All members must understand the duties and obligation of both citizens and government under the United States and their state's constitution.
 
 ## Mission Statement
 
@@ -22,5 +22,12 @@ The members of the unorganized militia shall ever stand, as have our forefathers
 ## Standards
 
 As a Light Foot battalion, we base our operations on the [Militia Standards and Principles of the Light Foot][standards]. These standards are the foundation of our unit, as well as many other Light Foot units throughout the country.
+
+## WE DO NOT:
+ 
+* Promote the overthrow of any government, local, state, or national. 
+* Advocate or promote violence against any organization, group, or individual. 
+* Advocate the removal of any person from his or her lawfully elected office. 
+* Allow racists, felons, or anarchists to join or participate. 
 
 [standards]: {{ '/assets/pdf/Light_Foot_Militia_Standards_2014.pdf' | relative_url }}

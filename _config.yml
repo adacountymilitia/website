@@ -97,9 +97,14 @@ author:
   bio               : "The members of the unorganized militia shall ever stand, as have our forefathers before us, first to God, from Whom we acknowledge the Authority of all Rights, and all the blessings of governments and to our native state."
   avatar            : "/assets/images/spartan-logo.png"
   avatar_alt        : "ΜΟΛΩΝ ΛΑΒΕ"
-  # avatar_second     : "/assets/images/minuteman.jpg"
-  # avatar_second_alt : "Minuteman"
-  
+  links:
+    - label: Email Us
+      icon: "far fa-envelope"
+      url: mailto:&#097;&#100;&#097;&#099;&#111;&#117;&#110;&#116;&#121;&#049;&#115;&#116;&#098;&#110;&#108;&#102;&#109;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;
+    - label: Follow us on Facebook
+      icon: "fab fa-fw fa-facebook-square"
+      url: https://www.facebook.com/adacountylightfootmilitia
+
 # Site Footer
 footer:
   seal: /assets/images/seal-idaho.png
