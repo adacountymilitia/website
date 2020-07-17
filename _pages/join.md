@@ -34,4 +34,4 @@ We encourage everyone to train as often as possible. Our monthly FTX is one oppo
 Beyond the basic requirements of an enlisted militiamen, we there are many ways to contribute. These opportunities range from teaching a class or conducting a training, helping to recruit at local meetings, and assisting during events. If you have something to contribute,  speak up.
 
 [standards]: /assets/pdf/Light_Foot_Militia_Standards_2014.pdf
-[training]: ../training/
+[training]: {{ '/training/' | relative_url }}
