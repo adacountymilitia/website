@@ -1,0 +1,69 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Join"
+    url: /join/
+  - title: "About"
+    url: /about/
+  - title: "Training"
+    url: /training/
+
+starter:
+  - title: Legal provisions for a Militia
+    children:
+      - title: The U.S. Constitution; Article II, Section 2
+        url: https://www.constituteproject.org/constitution/United_States_of_America_1992#78
+      - title: Constitution of the State of Idaho; Article XIV, Section 2
+        url: https://legislature.idaho.gov/statutesrules/idconst/ArtXIV/
+      - title: Idaho Statute; Title 46 
+        url: https://legislature.idaho.gov/statutesrules/idstat/title46/
+research:
+  - title: Lightfoot Information
+    children:
+      - title: Light Foot Militia
+        url: http://lightfootmilitia.com/index.html
+      - title: Light Foot Standards
+        url: /assets/pdf/Light_Foot_Militia_Standards_2014.pdf
+      - title: Light Foot Unit Map
+        url: http://lightfootmilitia.com/unit-locator-map.html
+  - title: Neighboring Units
+    children:
+      - title: 55th Bn Light Foot (Coeur d Alene)
+        url: https://www.facebook.com/Kootenai-county-Light-Foot-Militia-43rd-FF-1428978593865713/
+      - title: 63rd Bn Light Foot (Spokane, WA)
+        url: https://www.facebook.com/jeff.stan.716533
+      - title: 7th Bn Light Foot (Elko, NV)
+        url: http://www.nnlfp.com
+      - title: 45th Bn Light Foot (Tooele, UT)
+        url: https://www.facebook.com/The-Utah-Lightfoot-Militia-1496322640675051/
+      - title: 21st Light Foot (Pasco, WA)
+        url: https://southeastwashingtonmilitia.webs.com/
+      - title: 57th Bn Light Foot (Virginia City, MT)
+        url: https://www.facebook.com/Montana-57th-Battalion-of-Light-Foot-106443124359206/
+      - title: Utah Light Foot
+        url: https://utahlightfootmilitia.webs.com/
+      - title: Texas Militia
+        url: http://www.texasmilitia.info/
+resources:
+  - title: Books & Publications
+    children:
+      - title: Light Infantry Tactics for Small Teams
+        url: https://www.abebooks.com/servlet/BookDetailsPL?bi=30326445803&searchurl=isbn%3D1418472077%26sortby%3D17&cm_sp=snippet-_-srp1-_-title2
+      - title: US Army Field Manual FM 21-75 “Combat Skills of the Soldier”
+        url: https://archive.org/details/Fm21-75_15/page/n247/mode/1up
+  - title: Qualification
+    children:
+      - title: Firearms Qualifications
+        url: /arms-qualifications
+recruits:
+  - title: Getting Started
+    children:
+      - title: Guide for New Recruits
+        url: /recruits/
+      - title: Essential Equiptment
+        url: /equiptment/
+      - title: Firearms Safety
+        url: /safety/
+      - title: Firearms Qualifications
+        url: /arms-qualifications/
