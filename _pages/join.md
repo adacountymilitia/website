@@ -11,15 +11,19 @@ sidebar:
 
 General membership in the militia is open to all lawful citizens of a state, ages 16 and up. There shall be no discrimination due to race, sex, national origin or physical characteristics.
 
-All prospective members shall be required to give their name, date of birth, address,contact information, next of kin and general information detailing prior military experience and/or other such skills as may be utilized by the militia.
-
 ## Familiarize yourself with the standards
 
 As a Light Foot battalion, we base our operations on the [Militia Standards and Principles of the Light Foot][standards]. We expect participants to be familiar with these standards, and abide by the guidelines set forth therein. Please download and print a copy. You're not expected to **memorize it**, but at least familiarize yourself with it before attending your first meeting, especially the _Statement of Ethics/Mission Statement_ section on page 1, and the _Duty and Code of Conduct_ on page 3.
 
 ## Attend a meeting
 
-We ask potential recruits to attend one of the public monthly meeting before they attend any of our Field Training Excercises (FTX). At the meeting you will have an opportunity to meet others, introduce yourself to the the officers, and ask questions. We meet on the first Tuesday of each month in Meridian, at 7pm. Because the meetings are held on private property, we disclose the location to prospective recruits upon request. Please email **adacounty1stbnlfm** `[at]` **gmail** `[dot com]` for information about our next meeting.
+We ask potential recruits to attend one of the public monthly meeting before they attend any of our Field Training Excercises (FTX). At the meeting you will have an opportunity to meet others, introduce yourself to the the officers, and ask questions. We meet on the first Tuesday of each month in Meridian, at 7pm. Because the meetings are held on private property, we disclose the location to prospective recruits upon request. Please email [adacounty1stbnlfm@gmail.com][email] for information about our next meeting.
+
+## Submit an application
+
+All prospective members shall be required to give their name, date of birth, address,contact information, next of kin and general information detailing prior military experience and/or other such skills as may be utilized by the militia.
+
+Additionally, at the time of application, prospective members shall be required to provide proof of a background check, or show a current CCWP issued by the State of Idaho.
 
 ## Prepare
 
@@ -35,3 +39,4 @@ Beyond the basic requirements of an enlisted militiamen, we there are many ways 
 
 [standards]: /assets/pdf/Light_Foot_Militia_Standards_2014.pdf
 [training]: {{ '/training/' | relative_url }}
+[email]: mailto:&#097;&#100;&#097;&#099;&#111;&#117;&#110;&#116;&#121;&#049;&#115;&#116;&#098;&#110;&#108;&#102;&#109;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;?subject=Ada Country Light Foot meeting information
