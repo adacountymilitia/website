@@ -49,13 +49,13 @@
 
 .page__footer-seal {
   img {
-    width: 76px;
+    width: 45px;
     border-radius: 50%;
     margin: 0 auto;
     display: block;
 
     @include breakpoint($large) {
-      width: 223px;
+      width: 76px;
     }
   }
 }
