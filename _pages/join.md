@@ -8,7 +8,7 @@ author_profile: true
 sidebar:
   - nav: "recruits"
 header:
-  overlay_image: /assets/images/sawtooth.jpg
+  overlay_image: /assets/images/MULTICAM.jpg
 ---
 
 General membership in the militia is open to all lawful citizens of a state, ages 16 and up. There shall be no discrimination due to race, sex, national origin or physical characteristics.

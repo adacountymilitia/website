@@ -8,7 +8,7 @@ author_profile: true
 sidebar:
   - nav: "resources"
 header:
-  overlay_image: /assets/images/tablerock.jpg
+  overlay_image: /assets/images/OCP.jpg
 ---
 > You're only as good as your last training session!
 

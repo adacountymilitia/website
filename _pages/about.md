@@ -8,7 +8,7 @@ author_profile: true
 sidebar:
   - nav: "research"
 header:
-  overlay_image: /assets/images/blue-sky.jpg
+  overlay_image: /assets/images/TIGERSTRIPE.jpg
 ---
 
 We are your friends, your neighbors, and your co-workers. In many cases, we come from a Military or Law Enforcement background. We believe in God, Liberty, and the Constitution. Our members operate under a code of conduct and are self reliant. We care about out Country, our Community, and our fellow man. We have come together for purposes of preparedness and as first responders in an emergency situation. **We are "Neighbors Standing Together"**
