@@ -29,7 +29,7 @@ Additionally, at the time of application, prospective members shall be required 
 
 ## Prepare
 
-As a new recruit, you are not expected to show up in a "full kit" on day one. Take a deeper look at the [Militia Standards and Principles of the Light Foot][standards] document, and familiarize yourself with the equiptment that you'll need. You don't need **everything** right away, pick up gear as you can afford it, and as you learn what works for you and what doesn't. The only **ABSOLUTE MUST HAVE** is an Individual First Aid Kit (IFAK), that someone else can use to treat **YOU** if you're wounded. This is required to be **ON YOUR PERSON** at all times during an FTX. 
+As a new recruit, you are not expected to show up in a "full kit" on day one. Take a deeper look at the [Militia Standards and Principles of the Light Foot][standards] document, and familiarize yourself with the equipment that you'll need. You don't need **everything** right away, pick up gear as you can afford it, and as you learn what works for you and what doesn't. The only **ABSOLUTE MUST HAVE** is an Individual First Aid Kit (IFAK), that someone else can use to treat **YOU** if you're wounded. This is required to be **ON YOUR PERSON** at all times during an FTX. 
 
 ## Train
 
