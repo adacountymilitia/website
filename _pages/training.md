@@ -12,7 +12,7 @@ header:
 ---
 > You're only as good as your last training session!
 
-Though our monthly Field Training Excercises (FTX) are a good opportunity to train _together_, it is imparitive that you train _individually_ and _in small groups_. Train as often as you can! 
+Though our monthly Field Training Excercises (FTX) are a good opportunity to train _together_, it is imperative that you train _individually_ and _in small groups_. Train as often as you can! 
 
 ## Training by yourself
 

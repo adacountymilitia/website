@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/images/A-TACS_FG.jpg
 ---
 
-In accordance with the Constitution of the United States, the Constitution of the State of Idaho, [ARTICLE XIV][articleXIV], and Idaho Statute, in [Title 46][title46]; we are an _Unorganized Militia_ consisting *MORE* volunteers. We are the 43rd infantry battalion of the Unorganized Militia of the State of Idaho, based in Ada County. 
+We are the 43rd infantry battalion of the Unorganized Militia of the State of Idaho, based in Ada County. We are volunteers operating in accordance with the Constitution of the United States, the Idaho Constitution ([Article XIV][articleXIV]), and Idaho Statute ([Title 46][title46]).
 
 ## Our Mission
 
@@ -21,13 +21,13 @@ We pledge to promote and defend the unalienable rights of all people as directed
 
 ## You are the Militia!
 
-You may say "I don't have any training!" or "What can I do?" To be a "Well-Regulated Militia..." we must and will train all members and the public. Those from military or law enforcement, we need your help to train others. Those without training still have skills or hobbies that can be useful. The Militia requires Integrity, Courage, and Strength of Character. As a member, you will be charged with defending your fellow man, helping those in need, facing disaster, and taking a stand when it is much easier to continue to do nothing. [More about Training][training]
+You may say "I don't have any training!" or "What can I do?" To be a "Well-Regulated Militia..." we must and will train all members and the public. Those from military or law-enforcement, we need your help to train others. Those without training still have skills or hobbies that can be useful. The militia requires integrity, courage, and strength of character. As a member, you will be charged with defending your fellow man, helping those in need, facing disaster, and taking a stand when it is much easier to continue to do nothing. [More about Training][training]
 
 ## How to Join
 
-According to the U.S. Constitution, Federal Law, the Idaho State Constitution and Idaho State Code, all male citizens ages 18-45 years are members of the militia. According to Anglo-Saxon Common Law, and the laws and customs of the American Colonies before our separation from the British Empire, all males (and even females during an actual emergency) between the ages of 16 and 60 were considered members of the militia.
+According to federal law, as well as the Idaho Constitution and Idaho State Code, all male citizens from 18 to 45 years of age are members of the militia. But this traditional duty goes back much further. It was a part of Anglo-Saxon common law at least as far back as the 7th century, and later propagated into the laws and customs of the American colonies, that all males between the ages of 16 and 60 were members of the militia. While this duty primarily applied to males, in emergencies it extended to females as well.
 
-So the militia, like your God-given rights, existed before the United States government was formed. And as such, you are already a member of the militia, by statute and by God-given right. [How to join][join]
+So the militia, like your God-given rights, existed long before the United States government was even formed. And you are already a member, both by statute and by God-given right. [How to join][join]
 
 [Source: https://lightfootmilitia.com][lfm]
 
