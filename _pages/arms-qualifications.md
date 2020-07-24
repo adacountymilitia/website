@@ -9,7 +9,7 @@ sidebar:
   - nav: "recruits"
 ---
 
-Proficency with firearms is essential, and we encourage members to qualify for each firearm they intend to use in militia service. 
+Proficency with firearms is essential, and we encourage members to qualify with each firearm they intend to use in militia service. 
 
 ## Basic Marksmanship Qualification Test
 
@@ -24,8 +24,6 @@ The **Basic Marksmanship Qualification Test** is to ensure militiamen are safe w
 ##  Militia Marksmanship Qualification Test
 
 Once a member has passed the **Basic Marksmanship Qualification Test**, they are encouraged to take the **Militia Marksmanship Qualification Test (MMQ)**. See section [LFMS-03-05 'The ?MMQ?'][standards] for more information about the MMQ.
-
-
 
 [safety]: {{ '/safety/' | relative_url }}
 [standards]: {{ '/assets/pdf/Light_Foot_Militia_Standards_2014.pdf' | relative_url }}
