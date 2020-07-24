@@ -27,9 +27,9 @@ In order to fulfill these conditions we ask you to do the following:
 * If you have experience you feel would benefit others in the militia, please step up and ask to be considered for an officer position.
 * When participating in any militia activity, you will openly bear only legal arms and accessories. When in active service, if called up by your Governor, you will obey the laws of war.
 
-### Uniform & Equiptment
+### Uniform & Equipment
 
-There is a lot of equiptment that you'll eventually want to have. It is not required on day one, and for many takes months, or even years to aquire and fine tune your kit. Start with the basics: IFAK, uniform, boots and a rifle. [View the essential and suggested equiptment][equiptment].
+There is a lot of equipment that you'll eventually want to have. It is not required on day one, and for many takes months, or even years to aquire and fine tune your kit. Start with the basics: IFAK, uniform, boots and a rifle. [View the essential and suggested equipment][equipment].
 
 ### Be Safe
 
@@ -37,6 +37,6 @@ At all times, members are expected to conduct themselves in a safe and reasonabl
 
 
 
-[equiptment]: {{ '/equiptment/' | relative_url }}
+[equipment]: {{ '/equipment/' | relative_url }}
 [safety]: {{ '/safety/' | relative_url }}
 [standards]: {{ '/assets/pdf/Light_Foot_Militia_Standards_2014.pdf' | relative_url }}

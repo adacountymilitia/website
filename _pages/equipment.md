@@ -1,7 +1,7 @@
 ---
-title: "Essential Equiptment"
-permalink: /equiptment/
-path: "equiptment"
+title: "Essential Equipment"
+permalink: /equipment/
+path: "equipment"
 type: pages
 layout: single
 author_profile: true
@@ -41,7 +41,7 @@ All recruits should have a semi-automatic rifle, chambered in a common calibur (
 
 You can never have enough ammunition. For training that involves firearms, expect to use between 10 - 100 rounds of live ammunition. Most militia members have a minimum of a thousand rounds of "range ammo" for each firearm they plan to use for militia activities. For duty ammunition, you should have as much as you can reasonably affort. 
 
-## Suggested Equiptment
+## Suggested Equipment
 
 Beyond the essentials above, we suggest that every recruit consider the following, as budget permits:
 
@@ -53,7 +53,7 @@ Many members of our unit are licensed HAM radio operators. We use simplex freque
 
 While a sidearm is not required, many prefer to have a back-up weapon. Much like the rifle, a common calibur is suggested, and most opt for `9MM` or `.45acp`. Invest in a good holster that can be attached to your other gear, and a minimum of 3 extra magazines.
 
-#### Load bearing Equiptment (LBE)
+#### Load bearing Equipment (LBE)
 
 This is a harness, vest or belt that is used to carry your gear. You're not going to be very effective if you have to train with 6 magazines, a radio and your IFAK shoved in your pockets.
 
