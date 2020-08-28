@@ -101,9 +101,9 @@ author:
     - label: Email Us
       icon: "far fa-envelope"
       url: mailto:&#097;&#100;&#097;&#099;&#111;&#117;&#110;&#116;&#121;&#049;&#115;&#116;&#098;&#110;&#108;&#102;&#109;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;
-    - label: Follow us on Facebook
-      icon: "fab fa-fw fa-facebook-square"
-      url: https://www.facebook.com/adacountylightfootmilitia
+    # - label: Follow us on Facebook
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   url: https://www.facebook.com/adacountylightfootmilitia
 
 # Site Footer
 footer:
