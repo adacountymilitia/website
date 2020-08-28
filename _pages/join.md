@@ -17,9 +17,13 @@ General membership in the militia is open to all lawful citizens of a state, age
 
 As a Light Foot battalion, we base our operations on the [Militia Standards and Principles of the Light Foot][standards]. We expect participants to be familiar with these standards, and abide by the guidelines set forth therein. Please download and print a copy. You're not expected to **memorize it**, but at least familiarize yourself with it before attending your first meeting, especially the _Statement of Ethics/Mission Statement_ section on page 1, and the _Duty and Code of Conduct_ on page 3.
 
+## Attend _New Recruit Training_
+
+We conduct a three-part virtual training session for potential recruits. _New Recruit Training_ covers the basic requirements for militia participation, including safety, uniforms, equipment, and expectations. Download and print the [Core Training Card][core-training-card] prior to attending. _New Recruit Training_ is conducted via zoom, and is required prior to attending meetings or Field Training Excercises. _Note: all participants are expected to have a VIDEO and AUDIO connection enabled, and participate in the meetings._
+
 ## Attend a meeting
 
-We ask potential recruits to attend one of the public monthly meeting before they attend any of our Field Training Excercises (FTX). At the meeting you will have an opportunity to meet others, introduce yourself to the the officers, and ask questions. We meet on the first Tuesday of each month in Meridian, at 7pm. Because the meetings are held on private property, we disclose the location to prospective recruits upon request. Please email [adacounty1stbnlfm@gmail.com][email] for information about our next meeting.
+We ask new recruits to attend one of the public monthly meeting before they attend any of our Field Training Excercises (FTX). At the meeting you will have an opportunity to meet others, introduce yourself to the the officers, and ask questions. We meet on the first Tuesday of each month in Meridian, at 7pm. Because the meetings are held on private property, we disclose the location to prospective recruits upon request. Please email [adacounty1stbnlfm@gmail.com][email] for information about our next meeting.
 
 ## Submit an application
 
@@ -40,5 +44,6 @@ We encourage everyone to train as often as possible. Our monthly FTX is one oppo
 Beyond the basic requirements of an enlisted militiamen, we there are many ways to contribute. These opportunities range from teaching a class or conducting a training, helping to recruit at local meetings, and assisting during events. If you have something to contribute,  speak up.
 
 [standards]: /assets/pdf/Light_Foot_Militia_Standards_2014.pdf
+[core-training-card]: /assets/pdf/Core_Training_Card.pdf
 [training]: {{ '/training/' | relative_url }}
 [email]: mailto:&#097;&#100;&#097;&#099;&#111;&#117;&#110;&#116;&#121;&#049;&#115;&#116;&#098;&#110;&#108;&#102;&#109;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;?subject=Ada Country Light Foot meeting information
