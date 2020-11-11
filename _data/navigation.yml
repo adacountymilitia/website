@@ -59,8 +59,8 @@ recruits:
     children:
       - title: Guide for New Recruits
         url: /recruits/
-      - title: Essential Equiptment
-        url: /equiptment/
+      - title: Essential Equipment
+        url: /equipment/
       - title: Firearms Safety
         url: /safety/
       - title: Firearms Qualifications
