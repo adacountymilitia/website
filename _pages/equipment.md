@@ -37,6 +37,10 @@ Reference section [LFMS-03-06 "EQUIPMENT"][standards] for more information about
 
 All recruits should have a semi-automatic rifle, chambered in a common caliber (ideally `5.56 NATO`). The AR-15 platform is preferred, and used by 90% of the unit. A good adjustable two-point sling is highly recommended, and you should have at least 6 extra magazines.
 
+#### Load Bearing Equipment (LBE)
+
+This is a harness, vest or belt that is used to carry your gear. You're not going to be very effective if you have to train with 6 magazines, a radio and your IFAK shoved in your pockets.
+
 #### Ammunition
 
 You can never have enough ammunition. For training that involves firearms, expect to use between 10 - 100 rounds of live ammunition. Most militia members have a minimum of a thousand rounds of "range ammo" for each firearm they plan to use for militia activities. For duty ammunition, you should have as much as you can reasonably affort. 
@@ -52,9 +56,5 @@ Many members of our unit are licensed HAM radio operators. We use simplex freque
 #### Sidearm
 
 While a sidearm is not required, many prefer to have a back-up weapon. Much like the rifle, a common caliber is suggested, and most opt for `9MM` or `.45acp`. Invest in a good holster that can be attached to your other gear, and a minimum of 3 extra magazines.
-
-#### Load Bearing Equipment (LBE)
-
-This is a harness, vest or belt that is used to carry your gear. You're not going to be very effective if you have to train with 6 magazines, a radio and your IFAK shoved in your pockets.
 
 [standards]: {{ '/assets/pdf/Light_Foot_Militia_Standards_2014.pdf' | relative_url }}
