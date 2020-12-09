@@ -17,19 +17,25 @@ General membership in the militia is open to all lawful citizens of a state, age
 
 As a Light Foot battalion, we base our operations on the [Militia Standards and Principles of the Light Foot][standards]. We expect participants to be familiar with these standards, and abide by the guidelines set forth therein. Please download and print a copy. You're not expected to **memorize it**, but at least familiarize yourself with it before attending your first meeting, especially the _Statement of Ethics/Mission Statement_ section on page 1, and the _Duty and Code of Conduct_ on page 3.
 
+## Vetting Process
+
+All prospective members must submit an application online. This information will help us to determine elegibility and appropriate role in the unit. Submitting an application **does not** constitute membership in the militia. After submitting an application and eledgibility is determined, prospects will be required to participate in a short virtual interview (typically via Zoom) with the battalion staff. This is an opportunity for us to get to know you, and for you to ask any questions.
+
+[Apply to join][apply]{: .btn .btn--primary}
+
 ## Attend _New Recruit Training_
 
-We conduct a three-part virtual training session for potential recruits. _New Recruit Training_ covers the basic requirements for militia participation, including safety, uniforms, equipment, and expectations. Download and print the [Core Training Card][core-training-card] prior to attending. _New Recruit Training_ is conducted via zoom, and is required prior to attending meetings or Field Training Excercises. _Note: all participants are expected to have a VIDEO and AUDIO connection enabled, and participate in the meetings._
+We conduct a three-part virtual training session for potential recruits. _New Recruit Training_ covers the basic requirements for militia participation, including safety, uniforms, equipment, and expectations. Download and print the [Core Training Card][core-training-card] prior to attending. _New Recruit Training_ is conducted via zoom, and is required prior to attending meetings or Field Training Excercises. _Note: all participants are expected to have a VIDEO and AUDIO connection enabled, and participate in the meetings._ 
 
 ## Attend a meeting
 
-We ask new recruits to attend one of the public monthly meeting before they attend any of our Field Training Excercises (FTX). At the meeting you will have an opportunity to meet others, introduce yourself to the the officers, and ask questions. We meet on the first Tuesday of each month in Meridian, at 7pm. Because the meetings are held on private property, we disclose the location to prospective recruits upon request. Please email [adacounty1stbnlfm@gmail.com][email] for information about our next meeting.
+We ask new recruits to attend one of the public monthly meeting before they attend any of our Field Training Excercises (FTX). At the meeting you will have an opportunity to meet others, introduce yourself to the the officers, and ask questions. We meet on the first Tuesday of each month in Meridian, at 7pm. Because the meetings are held on private property, we disclose the location to prospective members upon completion of the application and vetting interview.
 
-## Submit an application
+## Enlist in the unit
 
 All prospective members shall be required to give their name, date of birth, address,contact information, next of kin and general information detailing prior military experience and/or other such skills as may be utilized by the militia.
 
-Additionally, at the time of application, prospective members shall be required to provide proof of a background check, or show a current CCWP issued by the State of Idaho.
+Additionally, at the time of enlistment, prospective members shall be required to provide proof of a background check, or show a current CCWP issued by the State of Idaho.
 
 ## Prepare
 
@@ -46,4 +52,5 @@ Beyond the basic requirements of an enlisted militiamen, we there are many ways 
 [standards]: /assets/pdf/Light_Foot_Militia_Standards_2014.pdf
 [core-training-card]: /assets/pdf/Core_Training_Card.pdf
 [training]: {{ '/training/' | relative_url }}
-[email]: mailto:&#097;&#100;&#097;&#099;&#111;&#117;&#110;&#116;&#121;&#049;&#115;&#116;&#098;&#110;&#108;&#102;&#109;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;?subject=Ada Country Light Foot meeting information
+[contact]: {{ '/contact/' | relative_url }}
+[apply]: {{ '/apply/' | relative_url }}
